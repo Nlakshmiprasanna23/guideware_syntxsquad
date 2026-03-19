@@ -113,3 +113,41 @@ AI is used in:
 ---
 
 # 🔗 Prototype Link
+https://github.com/Nlakshmiprasanna23/prototype.git
+
+
+---
+
+# 🎥 Video Submission
+
+https://youtu.be/PL3SOVD0XpI?si=QBCmSlFB_FcrrZ9q
+---
+
+# 📌 Phase 1 Contributions
+
+- Problem Identification  
+- Persona Definition  
+- Risk Model Design  
+- Trigger Selection  
+- AI Planning  
+- Prototype Development  
+
+---
+
+# 🚀 Future Scope (Phase 2 & 3)
+
+- Real-time API integration  
+- Advanced fraud detection system  
+- Payment gateway integration  
+- Scalable backend system  
+- Mobile app development  
+
+---
+
+# 💎 Conclusion
+
+This project aims to deliver an **affordable, automated, and intelligent income protection system** for food delivery workers using AI-driven parametric insurance.
+
+---
+
+⭐ *Team SyntaxSquad is committed to building impactful solutions for real-world gig economy challenges.*
